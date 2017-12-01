@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 28 16:51:46 UTC 2017
+native-platform-1.1.51-sources.jar.asc>=
+native-platform-1.1.51-sources.jar>=
+native-platform-1.1.51.pom.asc>=
+native-platform-1.1.51.jar.asc>=
+native-platform-1.1.51-javadoc.jar.asc>=
+native-platform-1.1.51.jar>=
+native-platform-1.1.51-javadoc.jar>=
+native-platform-1.1.51.pom>=
